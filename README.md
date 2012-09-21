@@ -46,7 +46,7 @@ They will be released in the next few days.
 
 #### Node.js
 
-[fvdm](https://github.com/fvdm) have created a [package](https://npmjs.org/package/passdock) for node.js complete with [source code](https://github.com/fvdm/nodejs-passdock).
+[fvdm](https://github.com/fvdm) has created a [package](https://npmjs.org/package/passdock) for node.js complete with [source code](https://github.com/fvdm/nodejs-passdock).
 Thanks!
 
 
@@ -54,4 +54,4 @@ Thanks!
 ### Aknowlegments
 
 
-The code has been written by Matteo Gavagnin [@macteo](http://twitter.com/macteo), Filippo Bigarella [@filippobiga](http://twitter.com/filippobiga) and [Nicolò Tosi](https://github.com/nick-mobfarm)
+The code has been written by Matteo Gavagnin [@macteo](http://twitter.com/macteo), Filippo Bigarella [@filippobiga](http://twitter.com/filippobiga) and [Nicolò Tosi](https://github.com/nick-mobfarm).
