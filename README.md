@@ -16,7 +16,9 @@ Feel free to suggest a new feature or give us feedback or your thoughts: they're
 
 ## API and Sample Code
 
-We do have [API](https://api.passdock.com/api) to interact with Passdock.
+We do have [API](https://api.passdock.com/doc) to interact with Passdock.
+
+Check the [wiki](https://github.com/Creapptor/passdock/wiki) for a complete endpoint description with sample curl codes.
 
 Here is the list of sample code we offer to get started.
 
