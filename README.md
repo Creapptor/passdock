@@ -2,7 +2,7 @@
 
 Welcome to [Passdock](http://api.passdock.com) issue tracker and sample code list.
 
-The simplest and more powerfult Pass creator on the web.
+The simplest and more powerful Pass creator on the web.
 
 ----
 
